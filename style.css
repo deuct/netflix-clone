@@ -500,3 +500,15 @@ ul.footermenu li {
     font-size: 1rem;
   }
 }
+
+/* .rotate {
+} */
+
+.tox {
+  -moz-transition: all 0.5s linear;
+  -webkit-transition: all 0.5s linear;
+  transition: all 0.5s linear;
+  -moz-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
