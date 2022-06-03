@@ -207,10 +207,3 @@ function changeLanguage() {
       "Get Started";
   }
 }
-
-// function openFaqButton() {
-//   buttonPlus = document.querySelectorAll(".bi-plus-lg");
-//   for(x=0; x<buttonPlus.length; x++) {
-//     buttonPlus[x].style.tran
-//   }
-// }

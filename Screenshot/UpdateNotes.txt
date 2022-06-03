@@ -1,0 +1,10 @@
+[Update 16 Mei 2022]
+In this update i has added the feature of change language. You can do it language change by clicking 
+the language button on the top navbar or on the footer language button. When language change happens
+all of the pages language will change following language that you have choosen. 
+I also added a little bit styling using jquery to rotate the icon of FAQ section. the icon will be "+"
+if you're not open the FAQ. and after you're opening the FAQ the icon will turning into "x".
+
+Thats all. Thank you for your attentions.
+
+-Farhan Fadil
